@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgejieh
-- 👀 I’m interested in making financial or predictive models to fine degrees of correlation for alternative assets as well as the general market.
+- 👀 I’m interested in making financial or predictive models for alternative assets, such as fine wine, art, crypto, and NFTs, as well as the general market.
 - 🌱 I’m currently learning more R as well as diving into AI and DeepLearning
 
 <!---
