@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm George Jieh 👋
 
 ## 📊 Data Science & Machine Learning Enthusiast
 
