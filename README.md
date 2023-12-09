@@ -2,7 +2,7 @@
 
 ## 📊 Data Science & Machine Learning Enthusiast
 
-As a professional with a rich background in finance and a passion for data science and machine learning, I find joy in the intersection of numbers and algorithms. My journey has led me from the structured world of finance at Merrill Lynch and Bank of America to the dynamic and ever-evolving realm of data science.
+As a professional with a rich background in finance and a passion for data science and machine learning, I find joy in the intersection of numbers and algorithms. My journey has led me from the structured world of finance to the dynamic and ever-evolving realm of data science.
 
 ### 💼 Professional Background
 - **Finance Expertise:** Years of experience in financial decision-making and strategic planning.
