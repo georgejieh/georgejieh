@@ -6,7 +6,7 @@ As a professional with a rich background in finance and a passion for data scien
 
 ### 💼 Professional Background
 - **Finance Expertise:** Years of experience in financial decision-making and strategic planning.
-- **Transition to Data Science:** Enhanced skills through rigorous training at BrainStation and Google's Data Analytics Professional Certificate.
+- **Enhancing Analytical and Programming Skills:** Enhanced skills through rigorous training at BrainStation and Google's Data Analytics Professional Certificate.
 - **Projects & Achievements:** Led impactful projects, like analyzing health data for smart device product recommendations and examining bike-share data to boost membership revenue.
 
 ### 🛠 Technical Skills
