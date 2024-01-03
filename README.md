@@ -1,6 +1,6 @@
 # Hello, I'm George Jieh 👋
 
-## 📊 Data Science & Machine Learning Enthusiast
+## 📊 Finance Professional / Data Science & Machine Learning Enthusiast
 
 As a professional with a rich background in finance and a passion for data science and machine learning, I find joy in the intersection of numbers and algorithms. My journey has led me from the structured world of finance to the dynamic and ever-evolving realm of data science.
 
