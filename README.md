@@ -45,4 +45,4 @@ I'm a **Python developer** with experience in **data science, machine learning, 
 ---
 
 ## **🤝 Connect With Me**  
-📩 [Email](mailto:george.jieh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www,georgejieh.dev)  
+📩 [Email](mailto:george.jieh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www.georgejieh.dev)  
