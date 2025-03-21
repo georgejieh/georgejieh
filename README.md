@@ -1,48 +1,82 @@
 # **Hello, I'm George Jieh 👋**  
 
-## **🚀 Software Engineer | Data Scientist | AI Developer**  
+## **🚀 Machine Learning Engineer | Data Scientist | Python Developer**  
 
-I'm a **Python developer** with experience in **data science, machine learning, and backend development**. My work spans **end-to-end software solutions**, from **building AI-driven applications** to **analyzing large datasets** and **developing backend systems** that power intelligent decision-making.  
+I build **end-to-end AI systems** from data processing to API delivery. With expertise in **Python, machine learning, and backend development**, I create solutions that transform complex data into actionable insights through intelligent applications.
 
-🔹 **Currently exploring opportunities in software engineering, AI/ML, and backend development.**  
-🔹 **Strong background in Python, data engineering, and AI model evaluation.**  
-🔹 **Experienced in building APIs, automating workflows, and working with cloud services.**  
+🔹 **Experienced in ML model deployment**, from research to production-ready APIs  
+🔹 **Specialized in natural language processing, predictive analytics, and data engineering**  
+🔹 **Passionate about building systems that solve real-world problems with AI**  
 
 ---
 
-## **🛠 Technical Skills**  
-🔹 **Programming & Development**: Python, SQL, Flask, FastAPI, Django, JavaScript, Bash  
-🔹 **Machine Learning & AI**: scikit-learn, TensorFlow, PyTorch, LLM evaluation & fine-tuning  
-🔹 **Data Engineering**: Pandas, NumPy, BigQuery, Spark, ETL Pipelines  
-🔹 **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD  
-🔹 **Security & Best Practices**: Data privacy, API key management, fraud prevention  
+## **🛠️ Technical Skills**  
+
+### **Core Technologies**
+- **Languages**: Python, SQL, JavaScript, Bash
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch, H2O, TPOT, AutoKeras
+- **Data Engineering**: Pandas, NumPy, ETL Pipelines, SQL Databases
+- **Web Development**: Flask, FastAPI, API Design
+
+### **Advanced Capabilities**
+- **Natural Language Processing**: LLM Integration, Semantic Analysis, Text Classification
+- **MLOps & Deployment**: Model Serving, API Development, Performance Monitoring
+- **Data Processing**: Feature Engineering, Statistical Analysis, Visualization
 
 ---
 
 ## **📌 Featured Projects**  
 
-### **🚲 Bikeshare Analysis** ([Repo](https://github.com/georgejieh/bikeshare-analysis))  
-📊 **Data-driven insights** into bikeshare usage patterns. Processed large-scale trip data, performed **exploratory data analysis (EDA)**, and built predictive models for demand forecasting.  
+### **🍇 [Vineyard Prediction System](https://github.com/georgejieh/predicting_grape_suitability_based_on_climate_and_precipitation)**  
+**ML-powered vineyard suitability platform** leveraging climate and historical data to predict optimal grape varieties. Built with:
+- **Flask web API** serving an H2O AutoML model
+- **Complex data pipeline** integrating multiple weather and geographic APIs
+- **End-to-end architecture** from data collection to prediction delivery
 
-### **🍇 Predicting Grape Suitability** ([Repo](https://github.com/georgejieh/predicting_grape_suitability_based_on_climate_and_precipitation))  
-🌍 **Machine learning-powered vineyard suitability model.** Integrated **climate and precipitation data** to determine optimal regions for growing wine grapes. Built an **API-driven system** for real-time predictions.  
+### **🚲 [Bikeshare Analytics](https://github.com/georgejieh/bikeshare-analysis)**  
+**Comprehensive analysis** for bikeshare usage patterns using:
+- **Custom SQL statistical functions** for advanced analytics
+- **ETL pipeline** processing 196,000+ trips
+- **Interactive Tableau dashboards** visualizing user behavior
 
-### **🦟 Chicago WNV Study** ([Repo](https://github.com/georgejieh/chicago_WNV_study))  
-🦠 **Predicting West Nile Virus outbreaks** using machine learning and environmental data. Analyzed mosquito population trends and weather conditions to develop a **risk assessment model for public health safety.**  
+### **📰 [FreshRSS AI Summarizer](https://github.com/georgejieh/freshrss-ai-summarizer)**  
+**Financial news analysis tool** using both cloud and local LLMs to:
+- **Extract investment sentiment** and market insights
+- **Generate comprehensive market summaries**
+- **Support multi-language analysis** with custom prompt engineering
 
-### **📰 FreshRSS AI Summarizer** ([Repo](https://github.com/georgejieh/freshrss-ai-summarizer))  
-🤖 **AI-powered RSS feed summarizer.** Leveraged **natural language processing (NLP) and LLMs** to generate concise summaries of news articles for users.  
+### **🎴 [MTG AI Deck Builder](https://github.com/georgejieh/mtg_ai_deck_builder)**  
+**MTG deck optimization system** utilizing:
+- **Semantic card analysis** with embedding-based clustering
+- **Strategic pattern detection** through unsupervised learning
+- **Dynamic synergy identification** without hardcoded game rules
 
-### **🎴 MTG AI Deck Builder** ([Repo](https://github.com/georgejieh/mtg_ai_deck_builder))  
-♟ **AI-assisted deck-building tool** for Magic: The Gathering. Utilized **AI and rule-based logic** to recommend optimal deck compositions based on card interactions and meta-strategies.  
+### **🦟 [Chicago WNV Study](https://github.com/georgejieh/chicago_WNV_study)**  
+**Environmental health prediction tool** that:
+- **Forecasts disease outbreak risk** using geospatial data
+- **Integrates temporal and environmental factors** through ML
+- **Creates actionable public health insights** with advanced visualization
+
+### **✈️ [Air Traffic Analysis](https://github.com/georgejieh/air_traffic_analysis)**  
+**Aviation data intelligence platform** featuring:
+- **Advanced SQL analysis** of flight patterns and airline performance
+- **Multi-dimensional trend identification** across flight volumes, delays, and cancellations
+- **Investment-focused data visualization** using Tableau for strategic decision support
+
+### **⌚ [Bellabeat Health Analytics](https://github.com/georgejieh/bellabeat-analysis)**  
+**Fitness product optimization system** that:
+- **Transforms Fitbit user data** into actionable product insights
+- **Correlates activity patterns** with health metrics through statistical analysis
+- **Delivers strategic recommendations** based on identified user segments
 
 ---
 
 ## **👀 Looking For...**  
-🔹 **Software Engineering & AI roles** where I can contribute to **backend development, ML/AI applications, and large-scale data processing**.  
-🔹 **Collaborations** on innovative projects involving **data engineering, AI, or backend automation**.  
+🔹 **Machine Learning Engineering & Data Science roles** where I can build intelligent systems that drive decisions  
+🔹 **Collaborative teams** focused on developing production ML systems with measurable impact  
+🔹 **Opportunities** to work on challenging problems at the intersection of data, ML, and software engineering  
 
 ---
 
 ## **🤝 Connect With Me**  
-📩 [Email](mailto:george.jieh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www.georgejieh.dev)  
+📩 [Email](mailto:george.jieh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www.georgejieh.dev)
