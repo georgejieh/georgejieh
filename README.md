@@ -79,4 +79,4 @@ I build **end-to-end AI systems** from data processing to API delivery. With exp
 ---
 
 ## **🤝 Connect With Me**  
-📩 [Email](mailto:george.jieh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www.georgejieh.dev)
+📩 [Email](mailto:contact@georgejieh.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/george-jieh/) | 🖥️ [Portfolio](https://www.georgejieh.dev)
